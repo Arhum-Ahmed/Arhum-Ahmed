@@ -1,7 +1,10 @@
 <div align="center">
 
-<!-- Capsule Render Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:1e293b,100:0f172a&height=210&section=header&text=Arhum%20Ahmed&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=MASc%20Student%20@%20OTU%20%7C%20Autonomous%20Vehicles%20%C2%B7%20V2X%20%7C%20SoC%20%26%20Physical%20AI&descSize=18&descAlignY=62&descColor=94a3b8" width="100%" alt="Header Banner" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&height=60&lines=System.init(%22Physical_AI%22)%3B;Executing%20DRL%20Platooning%20Control...;Bridging%20CARLA%20%E2%86%94%20ROS%202...;Synthesizing%20SystemVerilog%20Modules..." alt="Typing SVG" />
+</a>
+
+</div>
 
 <br/>
 
